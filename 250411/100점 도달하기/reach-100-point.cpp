@@ -13,10 +13,10 @@ int main() {
             cout << "B ";
         }
                 else if (i>=70) {
-            cout << "B ";
+            cout << "C ";
         }
                 else if (i>=60) {
-            cout << "B ";
+            cout << "D ";
         }
         else {
             cout << "F ";
